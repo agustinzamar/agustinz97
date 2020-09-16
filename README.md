@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/jchicano/jchicano/master/assets/hi.gif" width="30px"></h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=agustinz97" alt="jchicano" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=agustinz97" alt="agustinz97" /> </p>
 
 <br>
 
@@ -27,6 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
