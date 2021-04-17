@@ -1,37 +1,49 @@
-<h1 align="center">Hi! I'm Agus</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=agustinz97" alt="agustinz97" /> </p>
+<h1 >Hey there! 👋🏼 I'm Agustín</h1>
 
-<br>
+#### Currently working as a QA Tester
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=agustinz97&show_icons=true&include_all_commits=true&theme=default" />
+💪🏼 I do manual and automation testing
 
-### About me
+I also code web apps and websites in my free time using React and Laravel 💖
 
-- I'm currently working as a QA Tester
-- I also code some web apps in my free time
-- I love coffe, cats and learning new things
+I'm really interested in CD/CI processes and how to improve the development workflow.
 
-<br>
+I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 
-<details>
-  <summary>Some statistics</summary>
-  <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinz97&layout=compact&theme=default" alt="agustinz97's most used languages"/>
+<div style="display: flex; justify-content:space-between;">
+<img align="" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=agustinz97&show_icons=true&include_all_commits=true&theme=default" />
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinz97&layout=compact&theme=default" alt="My most used languages"/>
+</div>
 
-**Languages and Tools:**
+<h3> Other things I know about </h3>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<div style="display: flex;">
+    <div style="display: flex; flex-direction: column; margin-right:8rem">
+        <ul>
+            <li> ✨ HTML</li>
+            <li> ✨ JavaScript ES6+</li>
+            <li>✨ PHP</li>
+            <li>✨ SQL Databases</li>
+            <li>✨ Adobe XD</li>
+            <li>✨ Python and Selenium </li>
+        </ul>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <ul>
+            <li>✨ CSS</li>
+            <li>✨ React</li>
+            <li>✨ Laravel</li>
+            <li>✨ REST API</li>
+            <li>✨ Postman</li>
+            <li>✨ Git </li>
+        </ul>
+    </div>
+</div>
 
+###Let's get in touch! 💬
 
-</details>
-
-<br>
+🔷 Twitter: https://twitter.com/_agustinzc
+🔷 Instagram: https://instagram.com/_agustinzc
+🔷 Codepen: https://codepen.io/agustin-zamar
+🔷 My website: https://agustinzamar.com.ar
