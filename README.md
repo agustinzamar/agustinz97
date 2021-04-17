@@ -37,6 +37,9 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 ### Let's get in touch! 💬
 
 🔷 Twitter: https://twitter.com/_agustinzc
+
 🔷 Instagram: https://instagram.com/_agustinzc
+
 🔷 Codepen: https://codepen.io/agustin-zamar
+
 🔷 My website: https://agustinzamar.com.ar
