@@ -17,7 +17,7 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 
 ### Things I know about 💻
 
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <td align="center" width="33%">
