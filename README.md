@@ -60,6 +60,10 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
                 <span><b><center>SQL</center></b></span> <br/>
                 <img height="55px" src="https://img.icons8.com/officel/80/000000/database.png"/>
             </td>
+            <td align="center" >
+                <span><b><center>SQL</center></b></span> <br/>
+                <img height="55px" src="https://img.icons8.com/color/96/000000/heroku.png"/>
+            </td>
         </tr>
         <tr>
             <td align="center">
