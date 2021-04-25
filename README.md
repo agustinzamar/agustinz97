@@ -10,9 +10,11 @@ I'm really interested in CD/CI processes and how to improve the development work
 
 I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=agustinz97&show_icons=true&include_all_commits=true&theme=default" />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=agustinz97&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinz97&layout=compact&theme=default" alt="My most used languages"/>
+---
+
+### Things I know
 
 - ✨ HTML
 - ✨ JavaScript ES6+
@@ -26,6 +28,8 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 - ✨ REST API
 - ✨ Postman
 - ✨ Git
+
+---
 
 ### Let's get in touch! 💬
 
