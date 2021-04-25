@@ -14,25 +14,18 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinz97&layout=compact&theme=default" alt="My most used languages"/>
 
-<div></div>
-
-<h3> Other things I know about </h3>
-
-<ul>
-    <li> ✨ HTML</li>
-    <li> ✨ JavaScript ES6+</li>
-    <li>✨ PHP</li>
-    <li>✨ SQL Databases</li>
-    <li>✨ Adobe XD</li>
-    <li>✨ Python and Selenium </li>
-    <li>✨ CSS</li>
-    <li>✨ React</li>
-    <li>✨ Laravel</li>
-    <li>✨ REST API</li>
-    <li>✨ Postman</li>
-    <li>✨ Git </li>
-</ul>
-
+- ✨ HTML
+- ✨ JavaScript ES6+
+- ✨ PHP
+- ✨ SQL Databases
+- ✨ Adobe XD
+- ✨ Python and Selenium
+- ✨ CSS
+- ✨ React
+- ✨ Laravel
+- ✨ REST API
+- ✨ Postman
+- ✨ Git
 
 ### Let's get in touch! 💬
 
