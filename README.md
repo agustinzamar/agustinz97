@@ -17,60 +17,60 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 
 ### Things I know about 💻
 
-<table width="100%">
+<table>
     <tbody>
         <tr>
-            <td align="center" width="33%">
+            <td align="center" >
                 <span><b><center>ReactJS</center></b></span> <br/>
                 <img height="60px" src="https://img.icons8.com/ultraviolet/2x/react.png"> 
             </td>
-            <td align="center" width="33%">
+            <td align="center">
                 <span><b><center>PHP</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/officel/80/000000/php-logo.png"/>
             </td>
-            <td align="center" width="33%">
+            <td align="center" >
                 <span><b><center>Laravel</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/fluent/96/000000/laravel.png"/>
             </td>
         </tr>
         <tr>
-            <td align="center" width="33%">
+            <td align="center" >
                 <span><b><center>HTML</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/color/2x/html-5.png"> 
             </td>
-            <td align="center" width="33%">
+            <td align="center" >
                 <span><b><center>JavaScript</center></b></span> <br/> 
                 <img height="65px" src="https://img.icons8.com/color/2x/javascript.png"> 
             </td>
-            <td align="center" width="33%">
+            <td align="center" >
                 <span><b><center>CSS</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/color/48/000000/css3.png"/>
             </td>
         </tr>
         <tr>
-            <td align="center" width="33%">
+            <td align="center">
                 <span><b><center>NodeJS</center></b></span> <br/>
                 <img height="60px" src="https://img.icons8.com/color/2x/nodejs.png"> 
             </td>
-            <td align="center" width="33%">
+            <td align="center" >
                 <span><b><center>Git</center></b></span> <br/>
                 <img height="60px" src="https://img.icons8.com/color/96/000000/git.png"/>
             </td>
-            <td align="center" width="33%">
+            <td align="center" >
                 <span><b><center>SQL</center></b></span> <br/>
                 <img height="55px" src="https://img.icons8.com/officel/80/000000/database.png"/>
             </td>
         </tr>
         <tr>
-            <td align="center" width="33%">
+            <td align="center">
                 <span><b><center>Python</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/color/2x/python.png"> 
             </td>
-            <td align="center" width="33%">
+            <td align="center" >
                 <span><b><center>Selenium</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/officel/80/000000/selenium-test-automation.png"> 
             </td>
-            <td align="center" width="33%">
+            <td align="center" >
                 <span><b><center>Wordpress</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/color/96/000000/wordpress.png"> 
             </td>
