@@ -10,11 +10,9 @@ I'm really interested in CD/CI processes and how to improve the development work
 
 I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 
-<div style="display: flex; justify-content:space-between;">
-<img align="" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=agustinz97&show_icons=true&include_all_commits=true&theme=default" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=agustinz97&show_icons=true&include_all_commits=true&theme=default" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinz97&layout=compact&theme=default" alt="My most used languages"/>
-</div>
 
 <h3> Other things I know about </h3>
 
