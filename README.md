@@ -67,7 +67,7 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
             <td align="center" >
                 <span><b><center>Heroku</center></b></span> <br/>
                 <img height="55px" src="https://img.icons8.com/color/96/000000/heroku.png"/>
-            </td><img />
+            </td>
             <td align="center" >
                 <span><b><center>Azure</center></b></span> <br/>
                 <img height="55px" src="https://img.icons8.com/color/96/000000/azure-1.png"/>
@@ -107,3 +107,4 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 ✨ My website: https://agustinzamar.com.ar
 
 ---
+
