@@ -14,6 +14,8 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinz97&layout=compact&theme=default" alt="My most used languages"/>
 
+<div></div>
+
 <h3> Other things I know about </h3>
 
 <ul>
