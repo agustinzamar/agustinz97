@@ -20,31 +20,39 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 <table>
     <tbody>
         <tr>
-            <td align="center" >
+            <td align="center" width="25%">
                 <span><b><center>ReactJS</center></b></span> <br/>
                 <img height="60px" src="https://img.icons8.com/ultraviolet/2x/react.png"> 
             </td>
-            <td align="center">
+            <td align="center" width="25%">
                 <span><b><center>PHP</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/officel/80/000000/php-logo.png"/>
             </td>
-            <td align="center" >
+            <td align="center" width="25%">
                 <span><b><center>Laravel</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/fluent/96/000000/laravel.png"/>
+            </td>
+            <td align="center" width="25%">
+                <span><b><center>Git</center></b></span> <br/>
+                <img height="60px" src="https://img.icons8.com/color/96/000000/git.png"/>
             </td>
         </tr>
         <tr>
             <td align="center" >
-                <span><b><center>HTML</center></b></span> <br/>
+                <span><b><center>HTML</center></b></span> <br/> 
                 <img height="65px" src="https://img.icons8.com/color/2x/html-5.png"> 
             </td>
             <td align="center" >
-                <span><b><center>JavaScript</center></b></span> <br/> 
+                <span><b><center>JavaScript ES6+</center></b></span> <br/>  
                 <img height="65px" src="https://img.icons8.com/color/2x/javascript.png"> 
             </td>
             <td align="center" >
-                <span><b><center>CSS</center></b></span> <br/>
+                <span><b><center>CSS</center></b></span> <br/> 
                 <img height="65px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+            </td>
+            <td align="center" >
+                <span><b><center>CSS</center></b></span> <br/> 
+                <img height="70px" src="https://img.icons8.com/color/96/000000/adobe-xd.png"/>
             </td>
         </tr>
         <tr>
@@ -53,16 +61,16 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
                 <img height="60px" src="https://img.icons8.com/color/2x/nodejs.png"> 
             </td>
             <td align="center" >
-                <span><b><center>Git</center></b></span> <br/>
-                <img height="60px" src="https://img.icons8.com/color/96/000000/git.png"/>
-            </td>
-            <td align="center" >
                 <span><b><center>SQL</center></b></span> <br/>
                 <img height="55px" src="https://img.icons8.com/officel/80/000000/database.png"/>
             </td>
             <td align="center" >
-                <span><b><center>SQL</center></b></span> <br/>
+                <span><b><center>Heroku</center></b></span> <br/>
                 <img height="55px" src="https://img.icons8.com/color/96/000000/heroku.png"/>
+            </td><img />
+            <td align="center" >
+                <span><b><center>Azure</center></b></span> <br/>
+                <img height="55px" src="https://img.icons8.com/color/96/000000/azure-1.png"/>
             </td>
         </tr>
         <tr>
@@ -77,6 +85,10 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
             <td align="center" >
                 <span><b><center>Wordpress</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/color/96/000000/wordpress.png"> 
+            </td>
+            <td align="center" >
+                <span><b><center>Quality Assurance</center></b></span> <br/>
+                <img height="65" src="https://img.icons8.com/color/96/000000/ab-testing.png"/>
             </td>
         </tr>
     </tbody>
@@ -95,4 +107,3 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
 ✨ My website: https://agustinzamar.com.ar
 
 ---
-
