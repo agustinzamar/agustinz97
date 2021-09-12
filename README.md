@@ -43,7 +43,7 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
                 <img height="65px" src="https://img.icons8.com/color/2x/html-5.png"> 
             </td>
             <td align="center" >
-                <span><b><center>JavaScript ES6+</center></b></span> <br/>  
+                <span><b><center>JS ES6+</center></b></span> <br/>  
                 <img height="65px" src="https://img.icons8.com/color/2x/javascript.png"> 
             </td>
             <td align="center" >
@@ -51,7 +51,7 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
                 <img height="65px" src="https://img.icons8.com/color/48/000000/css3.png"/>
             </td>
             <td align="center" >
-                <span><b><center>CSS</center></b></span> <br/> 
+                <span><b><center>Adobe XD</center></b></span> <br/> 
                 <img height="70px" src="https://img.icons8.com/color/96/000000/adobe-xd.png"/>
             </td>
         </tr>
@@ -68,10 +68,10 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
                 <span><b><center>Heroku</center></b></span> <br/>
                 <img height="55px" src="https://img.icons8.com/color/96/000000/heroku.png"/>
             </td>
-            <td align="center" >
+<!--             <td align="center" >
                 <span><b><center>Azure</center></b></span> <br/>
                 <img height="55px" src="https://img.icons8.com/color/96/000000/azure-1.png"/>
-            </td>
+            </td> -->
         </tr>
         <tr>
             <td align="center">
@@ -81,14 +81,6 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
             <td align="center" >
                 <span><b><center>Selenium</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/officel/80/000000/selenium-test-automation.png"> 
-            </td>
-            <td align="center" >
-                <span><b><center>Wordpress</center></b></span> <br/>
-                <img height="65px" src="https://img.icons8.com/color/96/000000/wordpress.png"> 
-            </td>
-            <td align="center" >
-                <span><b><center>Quality Assurance</center></b></span> <br/>
-                <img height="65" src="https://img.icons8.com/color/96/000000/ab-testing.png"/>
             </td>
         </tr>
     </tbody>
