@@ -72,12 +72,13 @@ I love coffe ☕, cats 🐱 and doing sports 🏃‍♂️
                 <span><b><center>Azure</center></b></span> <br/>
                 <img height="55px" src="https://img.icons8.com/color/96/000000/azure-1.png"/>
             </td> -->
-        </tr>
-        <tr>
-            <td align="center">
+                        <td align="center">
                 <span><b><center>Python</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/color/2x/python.png"> 
             </td>
+        </tr>
+        <tr>
+
             <td align="center" >
                 <span><b><center>Selenium</center></b></span> <br/>
                 <img height="65px" src="https://img.icons8.com/officel/80/000000/selenium-test-automation.png"> 
